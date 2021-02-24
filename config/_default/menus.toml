@@ -1,0 +1,14 @@
+[[main]]
+  name = "关于我"
+  url = "#about"
+  weight = 1
+
+[[main]]
+  name = "往日文字"
+  url = "/posts/"
+  weight = 2
+
+[[main]]
+  name = "给后世人"
+  url = "/docs/"
+  weight = 3
