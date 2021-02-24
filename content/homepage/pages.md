@@ -12,7 +12,7 @@ style = "plain"
 
 [widget]
   handler = "pages"
-    
+
   # Options: sm, md, lg and xl. Default is md.
   width = ""
 
@@ -21,11 +21,11 @@ style = "plain"
     position = ""
     # Options: sm, md, lg and xl. Default is md.
     scale = ""
-    
+
   [widget.background]
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color = ""
-    
+
     # See TODO
     image = ""
     # Options: auto, cover and contain. Default is auto.
