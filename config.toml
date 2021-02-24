@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ephemeron.netlify.app"
 languageCode = "zh-cn"
-title = "My New Hugo Site"
+title = "Ephemeron"
 theme = "ananke"
