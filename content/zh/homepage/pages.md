@@ -6,7 +6,7 @@ draft = false
 # Section you want to display
 section = "posts"
 # Pages count
-count = 3
+count = 5
 # Options: card, plain and masonry.
 style = "plain"
 
