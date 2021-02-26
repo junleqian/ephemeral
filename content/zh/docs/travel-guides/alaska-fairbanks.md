@@ -1,35 +1,334 @@
 +++
 title = "阿拉斯加冬季旅行攻略（费尔班克斯）"
-description = "Nested chapter of example doc"
-summary = ""
+description = "12月17号至12月26号，刚刚去完阿拉斯加费尔班克斯（Fairbanks，Alaska）玩，记忆正新，写一篇攻略仅供参考。本次旅行的主要目的是看极光，解锁人生中一个小小的成就。"
+summary = "12月17号至12月26号，刚刚去完阿拉斯加费尔班克斯（Fairbanks，Alaska）玩，记忆正新，写一篇攻略仅供参考。本次旅行的主要目的是看极光，解锁人生中一个小小的成就。"
 toc = true
 authors = []
-tags = []
+tags = ["旅行","摄影","阿拉斯加","费尔班克斯","极光"]
 categories = []
 series = []
-date =  "2020-10-16"
-lastmod = "2020-10-16"
-draft = true
+date =  "2019-12-31 06:52:33"
+lastmod = "2019-12-31 06:52:33"
+draft = false
 +++
 
 12月17号至12月26号，刚刚去完阿拉斯加费尔班克斯（Fairbanks，Alaska）玩，记忆正新，写一篇攻略仅供参考。本次旅行的主要目的是看极光，解锁人生中一个小小的成就。
 
 <!--more-->
 
-## Quisque sit amet velit ac
+## 一：选择旅行时段
+### 因素一：避开拥挤
 
-Mauris consectetur, felis et tempor egestas, nisi metus commodo quam, in tincidunt dui augue ornare tortor. In porttitor ullamcorper tristique. Sed at quam ut enim fringilla iaculis. Vivamus vitae odio ac neque ultricies volutpat non sed risus. Cras eu gravida lacus. Sed convallis interdum accumsan. Proin accumsan neque justo, ut imperdiet enim placerat eu. Duis sollicitudin dignissim maximus. Proin sed efficitur tortor, porttitor porttitor sapien. Integer dapibus aliquam fermentum. Etiam sed mauris accumsan, consectetur sapien volutpat, imperdiet odio. Sed in nisi nulla. Aliquam velit quam, viverra eget eros hendrerit, fermentum auctor purus.
+根据许多流传的攻略，Alaska最冷的时候是2-3月份，通常也认为那个时候极光最好，因为天空不太可能积累云层，也不太可能下雪。然而这个时间有两个问题，一是2-3月份是美国人的圣诞节节后，一般美国人过圣诞节会留在家里，节后会出来旅游，加上日本人和中国人社区里所流传的经典攻略大多推荐这个时间，可以预测的是届时团体项目人一定会空前绝后的多，并且机票酒店百物腾贵，小木屋更是抢订一空。
 
-### Vestibulum nec eros consequat
+笔者和小伙伴圣诞节没有什么事，并且都是只身在外，就决定反其道而行之在圣诞节期间去阿拉斯加。
 
-Vestibulum in facilisis diam. Phasellus accumsan ullamcorper faucibus. Integer sagittis ut odio quis maximus. Nulla metus dolor, congue pellentesque lacus ac, lobortis rhoncus urna. Pellentesque neque turpis, vehicula id placerat facilisis, semper in lectus. Sed varius ante mollis nibh rutrum interdum. Mauris vehicula velit ut ligula efficitur, sit amet luctus turpis interdum. Duis diam mauris, ullamcorper id accumsan in, hendrerit vel nibh. Fusce ac tellus dui. Nullam lacinia orci quis quam varius aliquet. Morbi arcu magna, malesuada sit amet porta at, suscipit sit amet tellus. Nam eget ex vitae felis viverra bibendum ac et dolor. Morbi auctor facilisis nisl.
+### 因素二： 极光预报
 
-Donec vulputate egestas risus ultrices placerat. Phasellus at sem orci. Proin ut dolor nisi. Sed interdum erat et nulla tristique rhoncus. Suspendisse potenti. Suspendisse nec orci ut sapien suscipit semper. Sed ut euismod tortor. Vivamus eget odio quis lectus ultrices pretium in ac sem. Vivamus lacinia egestas leo, egestas sollicitudin nulla vulputate id. Vestibulum at lorem et dui elementum euismod at vel neque. Morbi convallis dignissim justo, non sollicitudin massa aliquam non. Vivamus tristique vel massa sed rutrum. Morbi odio nunc, bibendum non tellus eget, interdum porta massa. Suspendisse sit amet eros ut lorem suscipit viverra vel sed purus.
+如果只是为了看极光，非常建议去阿拉斯加大学的极光预测网页上评估极光的kp值。kp值越高，所预测的极光将会越强烈。
 
-## Pellentesque sed augue quis erat
+阿拉斯加大学（University of Alaska）极光预测的网站：<https://www.gi.alaska.edu/monitors/aurora-forecast>
 
-Etiam ut tempus nunc. Donec vel ornare eros, quis viverra sem. In arcu erat, elementum vitae eros molestie, porta interdum arcu. Donec eleifend eget augue eu aliquam. Duis sed ex in nibh dictum pretium at vitae massa. Praesent a elementum orci, id dictum orci. Donec tempor malesuada est. Aenean maximus, sem tristique porta pellentesque, massa ex euismod sapien, nec consectetur augue odio a mauris. Aliquam pulvinar leo id commodo commodo. Vestibulum congue pellentesque nibh, vitae scelerisque felis dignissim et. Phasellus in finibus ipsum. Suspendisse ultrices nisl augue, ut aliquet enim commodo vitae. Pellentesque eu neque et massa tincidunt pretium eu eu lorem. Suspendisse urna turpis, accumsan posuere leo eu, porta imperdiet quam. Fusce vel mi at lectus sodales eleifend id sit amet orci.
+![27天极光预报](/images/dummy.png)
 
-## Sed sed sapien vitae mauris pellentesque
+网站英文解释了为什么极光出现的周期大致是27天，并且给出了极光强度的峰值预测。但由于预测峰值并不是一定准确，所以其图像也会每天更新。
 
-Donec eget dui euismod, mattis tortor a, suscipit nisi. Quisque id ullamcorper mi, vulputate tristique lacus. Nulla nulla felis, convallis sit amet nibh vitae, luctus viverra velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur consectetur, felis eget sagittis faucibus, sapien mauris dignissim justo, vel suscipit velit leo placerat dolor. Mauris accumsan ligula ipsum, et aliquam nunc congue a. Aliquam faucibus non mauris at commodo. Maecenas laoreet elit aliquet consectetur rhoncus. Etiam dictum mi augue, venenatis dignissim lacus pharetra et. Proin sit amet lectus id mauris accumsan venenatis ut sit amet lorem. Etiam auctor commodo elit, molestie vestibulum quam auctor ac. Vestibulum rhoncus leo malesuada mauris faucibus, pulvinar venenatis odio rutrum. Sed sit amet consectetur velit. Cras facilisis ligula vel ligula sodales, id luctus sapien suscipit.
+![kp = 4时的极光效果, 20秒快门，800ISO](/images/dummy.png)
+
+值得注意的是，一般从现在开始算，往往下一个极光kp峰出现在2-3周内，如果按照预报的情况来订小木屋、民宿或者酒店，将会遇到被其他人早早订完的窘境。所以强烈建议读清楚当地小木屋、民宿或酒店的退订条款，争取能找到24小时内或者一周内可以免费退订或调整时间的居所，方便提前预订，之后可以根据预报变化情况更改。笔者和小伙伴因为预报和其他个人因素试图调整了计划两次，最后因为高kp值的诱惑将原定的12月22日-1月1日的计划提前到了12月17日至12月26日。
+
+### 因素三：当地天气
+
+kp值不是一定准确的，但如果当天遇到下雪、多云等天气，极光会被遮蔽而导致看不见或者效果不佳。天气预报一般也就是两周内的预报比较准确，但又会遇到那个和提早订酒店、安排行程矛盾的问题。就这点来说，订好了过去却遇到下雪多云，实在是有点看运气，没有什么好的解决方案，只能尽人事听天命了。在出发前一周可以再关注一下天气，对于预报天气好的几天重点做好拍摄极光的准备工作。
+
+## 二：御寒准备
+
+### 保暖内衣
+
+可以买一套保暖内衣，也就是保暖上衣加秋裤。因为是最里面一层，为了防止内衣吸汗后结冰，最好不要买带有棉材料的保暖内衣。
+
+### 保暖leggings
+
+这个中文应该是叫打底裤或者绑腿，女生平时穿的比较多但是男款的应该也有。优衣库就有卖保暖的，有和没有的情况下区别还是很大的。牛仔裤的保暖作用几乎是零，所以还是穿leggings吧。
+
+### 滑雪裤
+
+这一层是外裤，主要是为了防止雪进入到靴子里面。Columbia的滑雪裤有隔热层，可以进一步加强腿部保暖。
+
+### 抢银行面罩 (head mask)
+
+![防风面罩](/images/dummy.png)
+
+这个面罩主要还是在极寒环境下防风使用。有些厚外套的帽子边缘是海狸皮毛，挡风效果尤其好。如果有那样的外套，或许这个面罩可以不用。但是如果要参与雪橇狗和雪地摩托这样的活动，这个面罩对冻脸还是能起到不错的缓解作用。
+
+### 俄罗斯帽子 (Winter Hat)
+
+![冬帽](/images/dummy.png)
+
+这个帽子同样也是为了外套自带的帽子不是保暖防风的情况准备的。主要是为了耳朵保暖。
+
+### 羊毛袜
+
+加强脚部保暖。体验下来主要还是脚趾冷，羊毛袜一层不够就穿两层。
+
+### 双层手套
+
+操作照相机所需要的手套。内层手套虽然只能在零下三十摄氏度的环境里坚持五秒钟但是总比赤手空拳来得强。外层手套最好带有暖宝宝拉链口袋，可以塞暖宝宝进去。
+
+### 厚外套
+
+动物保护主义者可以跳过这里。极寒保暖不用动物皮草就只能用报纸了。
+
+厚外套顶用的只有海狸皮毛、貂皮、加拿大鹅、澳洲羊绒这些溢价很严重的外套。
+
+但是这些衣服都是1000-3000美金的价格。
+
+笔者是用优衣库羽绒服加上围巾再外穿Columbia的滑雪服解决的。
+
+### -60摄氏度保暖鞋
+
+实践证明，标着-20摄氏度保暖的鞋子根本不够用，脚趾冷。请买-60摄氏度或者当量的军用保暖皮靴。
+
+### 凡士林、唇膏
+
+每天抹一点，防干裂。
+
+### 羊毛、羊绒衫
+
+穿在保暖内衣的外面，外套的里面，就这样。主要是用于室内环境。
+
+### 暖宝宝 (Little Hotties)
+
+![暖宝宝](/images/dummy.png)
+
+暖宝宝能救你命治你病，也能救活你的iPhone和其他电子设备，就这样。带得越多越好。
+
+## 三：其他项目及探险准备
+
+### 红色头灯
+
+小木屋及北极圈的探险黑灯瞎火，需要头灯。因为光污染影响欣赏极光，所以一般游客配备的头灯都是红光，最好光强能在200流明（lumen）甚至以下。如果遇到别的情况，诸如夜间要去冰湖上行走，可另外配备白光300流明（lumen）以上的手电筒或者头灯，避免在拍摄极光的时候因为切换头灯颜色手忙脚乱。
+
+### 游泳裤
+
+用来下温泉。
+
+### Go Pro和大疆鸡头防抖稳定器
+
+雪橇狗、雪地摩托的录像利器，可以用别的山寨机代替，但是要注意大部分雪地摩托活动的头盔只支持Go Pro的底座，山寨设备恐怕装不上去还要自行配备固定头带，具体的要做一下研究。极寒环境下其实Go Pro的电池很快就会冷冻到无法开机的地步，所以要备好暖宝宝，把Go Pro揣在口袋里捂着，想好什么时候掏出来拍。一般拿出来拍，坚持不过十分钟。
+
+### 维生素咀嚼片、维生素D
+
+![日出时间 (2019年12月30号）](/images/dummy.png)
+
+![日落时间 (2019年12月30号）](/images/dummy.png)
+
+冬季费尔班克斯有类极夜现象，日照只有3-4个小时左右。除此之外，白天的饮食可能也因为不均衡出现缺乏维生素的现象。备一瓶多种维生素咀嚼片，再备一瓶维生素D，在短日照环境里补充必须的维生素。
+
+## 四：白天的项目
+
+### 博物馆
+
+Museum of the North ( <https://www.uaf.edu/museum/> ) 主要是当地原住民艺术，日本移民文化和极光的原理讲解。
+
+源泉老爷车博物馆（ <https://www.fountainheadmuseum.com/> ）主要是看当地比拼老爷车的发展史，竟然很早就有混动和全电动老爷车了，惊为天人。
+
+先锋航空博物馆（ <http://www.pioneerairmuseum.org/> ）在费尔班克斯公园（Fairbanks Park）里面，主要是去看飞机，美军在阿拉斯加的航空军备历史。
+
+塔纳纳河谷铁路博物馆（ <https://www.alaska.org/detail/tanana-valley-railroad-museum> ）在费尔班克斯公园里面(Fairbanks Park)，很小的一个博物馆，博物馆内有一条旧铁轨陈列。
+
+### 北极圈到此一游 (Arctic Circle Tour)
+
+![北极圈](/images/dummy.png)
+
+一般是一个跟团项目，中午一个大巴车把游客从不同的宾馆接走，一路开到Arctic Circle的牌子下面（纬度66，经度33），因为是晚上，司机大叔用车灯照明让游客下去拍到此一游。行动自由度较低。
+
+虽然说看到极光会停，但是其实行程非常紧凑，司机大叔为了赶时间一般在观景点停靠观察极光仅2-3分钟，所以不要抱太大希望。
+
+北极圈之所以要跟团的原因主要是去此处的路只有一条，也就是道尔顿高速公路（Dalton Highway）。这条路是私有公司开的，所以也是私有的，卡车享有绝对路权，既不让行人也不让行车。大巴车可以上去开但是也要频频给卡车让道，常备对讲机收听对面来车情况，有空间就要停下让行。
+
+另外一个方面是这条路的后半程路况很差，颠簸且有很多防滑石子。对面开来的大卡车扬起来的石子有可能会把租车玻璃击碎。费尔班克斯机场的租车公司都有明文规定，普通的租车不能上道尔顿高速公路（Dalton Highway），如果出现事故损伤车辆算作违规处理。租车公司要求必须租用特殊车辆，那种车大约200美金一天，非常昂贵。
+
+另外遇到大雪天，这条公路的铲雪很不及时，后半程可能连路在哪里都看不到，只能靠树判断，非常危险，所以不建议自驾。
+
+为了避免蜂拥效应，就不提供具体的旅游团项目了。提供这个团的有很多，都可以在Trip Advisor上搜索到：[链接](https://www.tripadvisor.com/Search?q=arctic%20circle%20tour&searchSessionId=E7D7ACC90D975B921110702D39722F2F1577743383511ssid&geo=60826&sid=771A1FE5E2933EF8CCD2D55647451E551577743396124&blockRedirect=true&ssrc=a)
+
+### 雪橇狗（Dog Sledding）
+
+就是几千英里的那种雪橇犬马拉松竞速比赛退下来的狗狗。一般的活动有两种，一种就是去养雪橇狗的狗阵参观一发和狗合照，另外一个就是坐狗拉的雪橇绕一个90分钟到2个小时的圈。
+
+![电影《多哥》海报](/images/dummy.png)
+
+关于这个活动究竟是什么样的，最近刚出了一部迪士尼专属的电影《多哥》，可以去看看增进对这个活动了解和兴趣。
+
+同样的，提供雪橇犬活动的地方有很多，包括珍娜温泉度假中心，还有若干个“农家乐”。为了避免蜂拥效应，还是给一个Trip Advisor的搜索链接：[链接](https://www.tripadvisor.com/Search?q=dog%20sledding&searchSessionId=5ABDC73D8305A423E23849619E0405BE1577744025245ssid&sid=771A1FE5E2933EF8CCD2D55647451E551577744041954&blockRedirect=true&geo=60826&ssrc=a)
+
+### 圣诞老人的巢穴（Santa Claus House）
+
+<https://www.santaclaushouse.com/default.asp>
+
+这是一个在旁边North Pole小镇的比较有名的圣诞主题纪念品商店。旁边还有驯鹿养殖场。
+
+### 雪地摩托（Snow Mobile）
+
+非常酷炫的一个体验，在雪地里开摩托。雪地摩托方向盘不好把很容易开飞。一般会给摩托头盔和护目镜。极寒环境护目镜和头盔都有极大可能会凝霜，如果不想的话就必须得开一条缝，然后就得吃风。没有什么特别好的解决方案。
+
+提供雪地摩托的地方有很多，为了避免蜂拥效应，给一个Trip Advisor的链接：[链接](https://www.tripadvisor.com/Search?q=snow%20mobile&searchSessionId=5ABDC73D8305A423E23849619E0405BE1577744025245ssid&sid=771A1FE5E2933EF8CCD2D55647451E551577744338734&blockRedirect=true&geo=60826&ssrc=a)
+
+### 珍娜温泉（Chena Hot Spring）
+
+这是一个度假中心，主要活动是泡天然温泉，没有来过的还是可以来打个卡的，感受一下身体温暖但是头发结冰的快感。也可以住在这。
+
+附属活动包括有:
+
+1. 看极光
+
+2. 坐履带车去山上看极光
+
+3. 坐飞机俯瞰北极圈和Yukon River（Arctic Circle / Yukon River Flight Tour)
+
+4. 雪橇狗
+
+5. 冰雕博物馆
+
+6. 餐馆温泉附属的温室和发电站
+
+这个地方有几个问题需要注意。
+
+第一，没有免费WiFi，卫星WiFi收费很贵。
+
+第二，住的不怎么样，度假村的房间差不多就是外面一星酒店的质量；第三，温泉旺季人会很多，因为这个地方实在是人尽皆知。
+
+第四，在度假村里面观看极光的体验极差，因为观察室的门会不停地被穿过的人群打开，光污染太多了。
+
+第五，坐飞机俯瞰北极圈和Yukon River的活动500美刀左右一个人，相对于外面的俯瞰活动，这个价钱要贵得多；第六，Chena这个地方很远，离费尔班克斯大约要开90分钟车。
+
+第七，只有一个餐厅，走中高端路线的那种，不便宜，而且人多，晚饭排队往往要等很久才能坐下来，不想吃这家就得去活动中心的咖啡厅买三明治、汉堡包。
+
+所以不太推荐在这里住两个晚上以上。
+
+### Denali飞机俯瞰
+
+这个活动是坐直升机俯瞰Denali山脉。这一趟出行没有找到合适的从费尔班克斯出发的，可能是因为天气原因。但是是个不错的活动，一般是从安克雷奇（Anchorage）出发的比较多。就不赘述了，可以自己做做研究。
+
+### 费尔班克斯市中心（Downtown Fairbanks）
+
+城里主要是吃饭，闲逛，买纪念品（没消费税），还有和温度计拍照留念。
+
+吃饭比较有名的餐厅是做Crepe的一家店， The Crepery，目测是古巴早点。还有一家爵士餐厅，晚上8点半开始有表演，叫Jazz Bistro，老板喜欢来两句中文套近乎。
+
+就近买纪念品，推荐Arctic Travelers Gift Shop。
+
+闲逛主要是逛Co Op Plaza Downtown, 很小的一个商业中心。大的温度计电子告示牌需要自己找一找，已知的一个就在Jazz Bistro附近的一个停车场里面。
+
+## 五：极光观测地点
+
+极光观测需要避开光污染，所以城里肯定是不太行的（城里能看到的极光都是百年一遇的超强极光），一般都是要去郊外。
+
+### 小木屋
+
+小木屋订12月份的已经超级难订，几乎不可能订到一周的，2-3月份更是难上加难。仍然是为了避免蜂拥效应，就给个Trip Advisor链接：链接
+
+订之前最好打电话确认一下观看极光的体验。如果房间窗都不朝北，或者没阳台，那还挺尴尬的。
+
+### 珍娜温泉附属的履带车项目 (Chena Hot Spring)
+
+这个附属项目是每个人交75块美刀坐着履带车爬到山头上去看极光，视野应该比较好，缺点是跟团，人多不自由。
+
+## 六、租车须知
+### 发动机缸体加热器 (engine block heater)
+
+极寒环境下一个大家都不想遇到的情况就是汽车发动机打不着火，所以租车必须要仔细检查车的引擎是否配备有发动机缸体加热器(engine block heater)。在租车预订之前也可以打电话给租车公司复核是否配有发动机缸体加热器(engine block heater)。
+
+![发动机缸体加热器(engine block heater)使用示意图](/images/dummy.png)
+
+需要露天过夜停车的时候记得要寻找带有插座的停车位，方便使用加热器保持引擎温度，避免第二天早上起来打不着火的窘境。
+
+### 四驱 （AWD）
+
+建议租四驱车，最好还是SUV。原因是冬季费尔班克斯（Fairbanks）的路面情况不稳定，小路经常被雪覆盖，大路有时候铲雪不及时状况也不是很好，四驱车的雪地适应能力更好，可以比较有效的防止出现侧滑情况。届时的操作策略就是上路提速用四驱，进停车场停车切换回二驱。
+
+另外，费尔班克斯的租车全部都是用的是四季胎而不是雪胎，这一点也没有什么办法，只能默默接受。
+
+人生地不熟，还有可能积雪，开始开慢一点比较安全。本地人开得快可以找合适的路肩停靠让他们走。
+
+## 七：极光摄影准备指南
+### 器材：
+
+1. 带有高ISO（感光度）、长曝光功能和间隔摄影（Interval Shooting）的一台照相机。最好能有光学取景器而不是电子取景器
+
+2. 三脚架
+
+3. 快门遥控
+
+4. 24mm或更广的广角镜头
+
+5. 15mm焦段或更广的鱼眼镜头
+
+6. 360度（双鱼眼）摄像头或照相机
+
+7. 外置闪光灯
+
+8. ziploc拉链塑封袋
+
+### 挑战一：低光对焦（Focus）
+
+第一个挑战就是低光夜空下的对焦问题。拍过星空的朋友可能早就知道，对天对焦并不是无限远，具体在哪比较玄学。对焦的方法一般是在附近找一个远距离的光点，开启自动对焦功能后，切换会手动对焦模式，固定这个焦距对星空进行拍摄。拍摄极光的方法也是一样，但在阿拉斯加对焦难的问题在于，第一，如果要完美避开光污染，往往周遭的远景非常黑暗，没有任何光点可以辅助对焦；第二，虽然月亮是一个完美的辅助对焦光点，但是等到月亮升起来的时候，强烈的月光又会洗刷掉微弱的极光，在此时将焦点找到拍摄到的极光效果完全依赖极光的位置，如果在月亮旁边那基本没戏了。
+
+在有远距离的光点的辅助下，对焦完成切换回手动后建议全程都不要改变了。就冲这一点比较建议持有两台机身，一台白天拍人，一台晚上拍极光。如果条件不允许，那么在没有光点当做对焦参考的情况下，就只好靠着一张一张照片的预览来微调尝试找到满意的对焦了。如果景内有远方的树、山、或其他参照物的剪影，可以靠观察其剪影的轮廓锐利度来判断极光是否会在焦内。但这个问题不是很严重，原因是极光强烈时，极光本身变化也很大，无论多短的曝光，即使是2秒钟，也无法捕捉那一瞬间极光的细节，所以完美的锐利度并不是一个硬性要求。
+
+### 挑战二：极寒 （人）
+
+冬天的阿拉斯加夜晚很冷，操作相机的问题在于，御寒用的大手套必然影响操作精度，经常会发生按不到按钮的情况。就算是戴上了双层手套，也必须要脱下厚手套，穿着较薄的内层手套进行操作。久而久之，手就冻僵了。关于这一点，一般的解决方案是在口袋里塞暖宝宝，操作完赶紧热一热手。但是操作频繁的时候，手还是一样会冷，暖宝宝和双层手套只起到了缓解作用。其他还有两个折中方案。
+
+1. 将相机放在自己觉得自信可以拍到极光的机位架好，然后躲进车里或者小木屋里，根据天象使用遥控快门。
+
+2. 在试片满意后，直接设置间隔摄影（Interval Shooting），相机每30秒钟自己按一张，以逸待劳，全看极光给不给面子出现在相机视野里。
+
+这两个方案都牺牲了对极光变化的即时捕捉。也就是说，如果极光出现大的位置变化，就得冲出去调整机位。
+
+### 挑战三：极寒（电池）
+
+所有化学电池面临着同一个问题，那就是极寒环境下电压电流变低，几乎变得无法工作。照相机也不例外。单反（DSLR）相机耗电少，所以在这一点上变得毫无压力。
+
+但是无反（Mirrorless）就变得很吃力了。一个极光频繁爆发的晚上用掉三块电池也是很平常的，所以一定注意每天结束后对电池充电，最好能携带两个相机电池充电器两块一起充，就不会出现一觉醒来以后只有一块电池充好的窘境。
+
+这次去玩还看到了有硬核摄影师拿了防寒套和暖机仪，这些设备应该是更加有帮助解决电池变冷的问题，但是具体是否方便，因为没有近距离观察或使用过，就不进行评论了，读者可以自行研究。
+
+### 挑战四：光污染
+
+极光观测需要尽可能将光污染减小到最低。所以要注意：
+
+1. 把相机设置为取景器唯一（Viewfinder Only）模式，不然LED预览屏很容易就闪瞎狗眼。
+
+2. 关闭相机的对焦辅助灯。
+
+### 挑战五：极光太广
+
+极光很赞的时候变化多端分布很广。费尔班克斯的郊外，小木屋的观景台，都非常开阔没有障碍物，视角非常广。本次的体验是14mm的广角镜头和全幅机根本拍不下全景，必须精心调整脚架位置水平旋转来手动进行后期的全景拼接（Panorama）才行。
+
+后来我们去当地的摄影器材店租了一个鱼眼镜头，仍然还是出现了拍不下全景的问题，有一些极光的尾须跑到了画幅外。最后得到高人指点，能自动搞定全景问题的设备就只有360度全景摄像头。
+
+当然大家都说底大一级压死人，说不定哈苏就行，谁知道呢，如有人试过还望告知。
+
+### 挑战六：电子取景器
+
+这次旅行真的是暴露无反（Mirrorless）的一个大弱点，那就是在夜晚对着极度昏暗的场景，电子取景器只能看到漆黑一片。这是电子取景器的制造原理所决定的。这打破了类单反原理照相机一直以来吹嘘的所见即所得的优势，玩家必须不停试片来调整自己对极光的构图。这一点上，传统单反（DSLR）或使用光学取景器的无反就显得脱颖而出了。
+
+有一说也猜测无反相机是可以直接配用夜视仪来解决这个取景器问题的，但是夜视仪如无意外是在美国国家禁运条例上的，不往这个方向去做照相机恐怕还是出于合规问题。
+
+### 挑战七：镜头、取景器起雾
+
+在小木屋或空地的车里，为了保暖一般会进进出出。相机和镜头会遇到结雾的问题。在室内镜头镜面因为人吐出的水汽开始结霜雾，因为温暖变高融化成水滴，之后如果立即再冲出去，水滴就会结冰。取景器也会有类似的问题，比较令人头痛。
+
+镜头的解决方法比较简单，就是回车上或小木屋前一定要记得盖上镜头盖，隔绝水汽。
+
+取景器的话，就需要用到ziploc或者类似的那种可以放进大物件的拉链塑封袋了。进温暖空间之前先把设备放入塑封袋封上，防止水汽进入。在设备温暖回常温前都不要在室内打开塑封袋，不然水汽还是会凝结。
+
+镜头和取景器毕竟和滑雪眼镜还有浮潜的潜水面罩不同，不适合直接喷防凝喷剂，目前看到的比较安全的解决方案也只有塑封袋这个办法了。
+
+### 挑战八：和极光合影
+
+极光比较稳定的时候，和极光合影会因为人没有打光而欠曝。单反的内置闪光灯会被巨大的广角镜头挡住而出现闪光阴影。如果要不被挡住就得使用外置闪光灯。
+
+还有一个土办法就是用头灯在长曝光情况下扫一遍人，效果出来是一样的。
