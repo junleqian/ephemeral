@@ -11,3 +11,10 @@ date =  "2018-10-18"
 lastmod = "2018-10-18"
 draft = false
 +++
+
+## Day 1 Hotel Fairfield Inn, Cherokee
+## Day 2 Hotel, Holiday Inn, ASHEVILLE
+## Day 3 Hotel Fairfield Inn, Boone
+## Day 4 Hotel Peaks of Otter Londge
+## Biltmore Estate
+## CHIMNEY+BLOWING ROCK
